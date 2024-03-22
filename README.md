@@ -1,5 +1,4 @@
-
-# YT-MusicDL
+# YT MusicDL
 Download your favorite music from YouTube in .mp3 format using Python
 
 # Requirements:
